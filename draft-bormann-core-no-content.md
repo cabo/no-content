@@ -11,13 +11,13 @@ number:
 date:
 consensus: true
 v: 3
-area: WIT
-workgroup: CoRE WG
+area: "Web and Internet Transport"
+workgroup: "Constrained RESTful Environments"
 keyword:
  - TODO
 venue:
-  mail: core@ietf.org
-  github: cabo/no-content
+  mail: "core@ietf.org"
+  github: "cabo/no-content"
 
 author:
 - name: Carsten Bormann
